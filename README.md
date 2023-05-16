@@ -29,3 +29,6 @@ This will run the server on your local host and to access it hover over the link
 
 ![shot-1](public/assets/joeljazz-notetaker.herokuapp.com_.png)
 ![shot-2](public/assets/joeljazz-notetaker.herokuapp.com_notes.png)
+
+## Link
+[Deployed on HEROKU app](https://joeljazz-notetaker.herokuapp.com/)
